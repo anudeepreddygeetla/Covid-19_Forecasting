@@ -2,9 +2,6 @@
 Time series forecasting of COVID-19  using Facebook Prophet.
 # Death Rate Forecasting using Prophet
 
-## Overview
-Time series forecasting of COVID-19  using Facebook Prophet.
-
 ## Dataset
 - Time range: February 2020 to August 2020
 - Records: (49068 rows × 10 columns)
